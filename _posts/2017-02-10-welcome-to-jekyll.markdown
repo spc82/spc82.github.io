@@ -1,14 +1,21 @@
 ---
+title: spc82 github profile
+date: 2017-02-10 10:54:00 Z
+categories:
+- jekyll
+- update
+Field name:
+  Key: 
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-02-10 11:54:42 +0100
-categories: jekyll update
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
+
+![perfil3.jpg](/uploads/perfil3.jpg)
 
 {% highlight ruby %}
 def print_hi(name)
