@@ -3,6 +3,7 @@ title: Test siteleaf
 date: 2017-02-10 14:25:00 +01:00
 categories:
 - es
+- noticias
 author: Simón Prieto
 layout: post
 ---
