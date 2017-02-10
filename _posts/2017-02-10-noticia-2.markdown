@@ -6,7 +6,7 @@ categories:
 - noticias
 author: Simón Prieto
 thumbnail: "/uploads/lion-thumbnail.png"
-img: "/uploads/lion.png"
+img: "/uploads/lion.jpg"
 layout: post
 ---
 
