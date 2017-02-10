@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+{% if page.url contains "/en/" %}
+    {% assign active_lang = "en" %}
+    {% assign deactived_lang = "es" %}
+{% else %}
+    {% assign active_lang = "es" %}
+    {% assign deactived_lang = "en" %}
+{% endif %}
+
+<html lang="{{ active_lang }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{page.title}}</title>
+        <meta name="description" content="{{page.description}}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="{{page.keywords}}">
+        <link href=../favicon.ico rel=icon>
+        <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
+
+        {% include default-styles.html %}
+
+    </head>
+
+    <body>
+
+        {% include menu.html %}
+
+        {% include header.html %}
+
+        <main>
+
+            {{content}}
+
+        </main>
+
+        {% include footer.html %}
+
+        {% include cookies.html %}
+
+        {% include googleanalytics.html %}
+
+    </body>
+
+</html>

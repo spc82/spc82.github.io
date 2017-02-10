@@ -1,0 +1,37 @@
+idioma_activo: "English"
+aceptar: "Accept"
+navegacion: "Deploy navigation"
+cookies: "Like most websites, vdos.com uses cookies aiming to improve and optimize the user browsing experience. By using the website, you are accepting the "
+
+inicio:
+    title: "Home"
+    href: "home.html"
+    alias: "inicio"
+    ir: "Go to the VDOS homepage"
+
+soluciones:
+    title: "Professional solutions"
+    href: "solutions.html"
+    alias: "soluciones"
+
+historia:
+    title: "Our company"
+    href: "history.html"
+    alias: "historia"
+
+contacto:
+    title: "Contact"
+    href: "contact.html"
+    alias: "contacto"
+
+legal:
+    title: "Legal terms"
+    href: "legal.html"
+    alias: "legal"
+    derechos: "All Rights reserved"
+
+cookies:
+    title: "Cookies policy"
+    href: "cookies.html"
+    alias: "cookies"
+    text: "cookies policy"

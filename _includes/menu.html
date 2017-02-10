@@ -1,0 +1,66 @@
+        {% assign menu = site.data[active_lang].menu %}
+
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">
+                        {{ menu.expand.label }}
+                    </span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="{{ menu.home.url }}" title="{{ menu.home.title }}">
+                <img src="../img/logo-menu-vdos.png" alt="VDOS" title="Ir a la página principal de VDOS" class="nav-logo"/>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <div class="container">
+                    <ul class="nav navbar-nav">
+                    {% assign navigation_pages = site.html_pages | sort: 'nav_pos' %}
+
+                    {% for p in navigation_pages %}
+
+                        {% if p.nav_pos and p.url contains active_lang %}
+
+                            {% if page.url contains menu.[p.nav_level][p.nav_pos].url %}
+                                <li class="active"><span>{{ menu.[p.nav_level][p.nav_pos].label }}</span></li>
+                            {% else %}
+                                <li><a href='{{ menu.[p.nav_level][p.nav_pos].url }}' title='{{ menu.[p.nav_level][p.nav_pos].title }}'>{{ menu.[p.nav_level][p.nav_pos].label }}</a></li>
+                            {% endif %}
+
+                        {% endif %}
+
+                    {% endfor %}
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right navbar-lang">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                {{menu.lang.active}} <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">{{menu.lang.active}} <b class="caret"></b></a></li>
+                                <li>
+                                    <a href='../{{ deactived_lang }}/{{ menu.home.url-alt }}' title="{{ menu.lang.deactived }}">
+                                    {{ menu.lang.deactived }}
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+

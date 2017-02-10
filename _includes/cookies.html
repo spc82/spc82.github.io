@@ -1,0 +1,37 @@
+
+{% assign datalang = site.data.["active_lang"].text %}
+
+        <!-- **************************************************************************************************** -->
+        <!-- COOKIES -->
+        <!-- **************************************************************************************************** -->
+        <div class="container">
+            <div class="row">
+                <div id="cookiesdirective" class="col wrapper-message-cookie padding-top10 padding-bottom30">
+                    <div class="col col-xs-12 col-sm-8 col-md-8 col-xs-offset-0 col-sm-offset-0 col-md-offset-1 padding-top10 font-karla-regular">
+                        {{datalang.cookies}}<a href="{{datalang.cookies.href}}">{{datalang.cookies.text}}</a>.
+                    </div>
+                    <div class="col col-xs-12 col-sm-2 col-md-2" style="border:0; margin:0; padding:0; text-align:center;">
+                        <input type="submit" name="impliedsubmit" id="impliedsubmit" class="btn btn-accept-cookies" value="{{datalang.aceptar}}">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- **************************************************************************************************** -->
+        <!-- FUNCIONALIDAD JAVASCRTIPT PARA COOKIES-->
+        <!-- **************************************************************************************************** -->
+        <script type="text/javascript">
+            $(function () {
+                $.cookiesDirective({
+                    privacyPolicyUri: 'http://www.vdos.com/{{idioma}}/{{datalang.cookies.href}}',
+                    limit: 1,
+                    explicitConsent: false,
+                    linkLabel: '{{datalang.cookies.title}}',
+                    message: '{{datalang.cookies}}{{datalang.cookies.text}}',
+                    position: 'bottom',
+                    backgroundOpacity: '9',
+                    backgroundColor: '#66A0CB',
+                    linkColor: '#ffffff'
+                });
+            });
+        </script>

@@ -1,0 +1,37 @@
+idioma_activo: "Español"
+aceptar: "Aceptar"
+navegacion: "Desplegar navegación"
+cookies: "VDOS.com, al igual que la mayoría de sitios web, utiliza cookies con el objetivo de mejorar y optimizar la experiencia de navegación del usuario. Al usar la web, estás aceptando la "
+
+inicio:
+    title: "Inicio"
+    href: "inicio.html"
+    alias: "inicio"
+    ir: "Ir a la página principal de VDOS"
+
+soluciones:
+    title: "Soluciones profesionales"
+    href: "soluciones.html"
+    alias: "soluciones"
+
+historia:
+    title: "Nuestra empresa"
+    href: "historia.html"
+    alias: "historia"
+
+contacto:
+    title: "Contacto"
+    href: "contacto.html"
+    alias: "contacto"
+
+legal:
+    title: "Aviso legal"
+    href: "legal.html"
+    alias: "legal"
+    derechos: "Todos los derechos reservados"
+
+cookies:
+    title: "Política de cookies"
+    href: "cookies.html"
+    alias: "cookies"
+    text: "política de cookies"

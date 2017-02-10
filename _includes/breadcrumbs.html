@@ -1,0 +1,10 @@
+<!-- En este snippet se manda el lang por incluirse directamente en los html y no en el layout default como el resto de snippet -->
+{% assign datalang = site.data.[include.active_lang].text %}
+{% assign actual_txt = site.data.[include.active_lang].text.[page.pagina].title %}
+
+<ol class="breadcrumb white-color">
+    {% if page.pagina != "inicio" %}
+        <li><a href="{{datalang.inicio.href}}">{{datalang.inicio.title}}</a></li>
+    {% endif %}
+    <li>{{actual_txt}}</li>
+</ol>

@@ -1,0 +1,27 @@
+level_1:
+  pos_1:
+    label: Soluciones profesionales
+    title: Soluciones profesionales
+    url: soluciones.html
+
+  pos_2:
+    label: Nuestra empresa
+    title: Nuestra empresa
+    url: historia.html
+
+  pos_3:
+    label: Contacto
+    title: Contacto
+    url: contacto.html
+
+lang:
+  active: Español
+  deactived: English
+
+expand:
+  label: Desplegar navegación
+
+home:
+  title: Inicio
+  url: inicio.html
+  url-alt: home.html
