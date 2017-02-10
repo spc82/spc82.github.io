@@ -5,6 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
+    author: Simón Prieto
+    thumbnail: "/uploads/lion-thumbnail.png"
   uploads:
     title: Uploads
     output: true
@@ -14,13 +16,3 @@ exclude:
 - README.md
 - doc
 data_dir: "./_data"
-defaults:
-  -
-   scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "posts"
-      author: ""
-      img: ""
-      thumbnail: ""
