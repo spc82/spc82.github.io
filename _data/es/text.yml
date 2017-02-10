@@ -35,3 +35,9 @@ cookies:
     href: "es/cookies.html"
     alias: "cookies"
     text: "política de cookies"
+
+noticias:
+    title: "Noticias"
+    href: "es/noticias.html"
+    alias: "noticias"
+    text: "noticias"

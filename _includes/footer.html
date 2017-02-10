@@ -10,7 +10,7 @@
                 <ol class="breadcrumb">
 
                     {% if page.pagina != "inicio" %}
-                        <li><a href="{{datalang.inicio.href}}">{{datalang.inicio.title}}</a></li>
+                        <li><a href="{{datalang.inicio.href | absolute_url }}">{{datalang.inicio.title}}</a></li>
                     {% endif %}
                     <li>{{actual_txt}}</li>
 
@@ -20,17 +20,17 @@
                 <div class="row">
                     <div class="col-xs-12 col-md-3">
                         <p class="padding-bottom10">
-                            <a href="{{datalang.soluciones.href}}">{{datalang.soluciones.title}}</a>
+                            <a href="{{datalang.soluciones.href | absolute_url }}">{{datalang.soluciones.title}}</a>
                         </p>
                     </div>
                     <div class="col-xs-12 col-md-3">
                         <p class="padding-bottom10">
-                            <a href="{{datalang.historia.href}}">{{datalang.historia.title}}</a>
+                            <a href="{{datalang.historia.href | absolute_url }}">{{datalang.historia.title}}</a>
                         </p>
                     </div>
                     <div class="col-xs-12 col-md-3 col-md-offset-3">
                         <p class="padding-bottom10">
-                            <a href="{{datalang.contacto.href}}">{{datalang.contacto.title}}</a>
+                            <a href="{{datalang.contacto.href | absolute_url }}">{{datalang.contacto.title}}</a>
                         </p>
                         <p>
                             C/ Maldonado 52 1º A
@@ -57,11 +57,11 @@
             <div class="container footer-legal separator-dark">
                 <div class="row">
                     <div class="col-xs-12 col-md-2 padding-top20 padding-bottom20">
-                        <a href="{{datalang.inicio.href}}"><img src=" {{ 'img/logo-footer-vdos.png'  | absolute_url}}" alt="VDOS" title="{{datalang.inicio.ir}}" /></a>
+                        <a href="{{datalang.inicio.href}}"><img src=" {{ 'img/logo-footer-vdos.png'  | absolute_url }}" alt="VDOS" title="{{datalang.inicio.ir | absolute_url }}" /></a>
                     </div>
                     <div class="col-xs-12 col-md-8 padding-top20 padding-bottom20 text-center">
                         <p>{{datatext.copyright}} {{datalang.legal.derechos}} |
-                            <a class="warm-grey2-color text-underline" href="{{datalang.legal.href}}" title="{{datalang.legal.title}}">{{datalang.legal.title}}</a>
+                            <a class="warm-grey2-color text-underline" href="{{datalang.legal.href | absolute_url }}" title="{{datalang.legal.title}}">{{datalang.legal.title}}</a>
                         </p>
                     </div>
                 </div>
