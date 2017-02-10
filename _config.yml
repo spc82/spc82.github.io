@@ -14,3 +14,5 @@ exclude:
 - README.md
 - doc
 data_dir: "./_data"
+author: 
+thumbnail: 
