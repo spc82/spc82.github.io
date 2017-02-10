@@ -5,6 +5,7 @@ categories:
 - es
 - noticias
 author: Simón Prieto
+thumbnail: "/uploads/perfil3.jpg"
 layout: post
 ---
 
