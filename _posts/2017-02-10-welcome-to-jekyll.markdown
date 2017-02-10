@@ -4,6 +4,7 @@ date: 2017-02-10 11:54:00 +01:00
 categories:
 - es
 - noticias
+author: Simón Prieto
 layout: post
 ---
 
