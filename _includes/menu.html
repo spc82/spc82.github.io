@@ -11,7 +11,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="{{ menu.home.url }}" title="{{ menu.home.title }}">
-                <img src="../img/logo-menu-vdos.png" alt="VDOS" title="Ir a la página principal de VDOS" class="nav-logo"/>
+                <img src="{{'/img/logo-menu-vdos.png' | absolute_url}}" alt="VDOS" title="Ir a la página principal de VDOS" class="nav-logo"/>
                 </a>
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -26,7 +26,7 @@
                             {% if page.url contains menu.[p.nav_level][p.nav_pos].url %}
                                 <li class="active"><span>{{ menu.[p.nav_level][p.nav_pos].label }}</span></li>
                             {% else %}
-                                <li><a href='{{ menu.[p.nav_level][p.nav_pos].url }}' title='{{ menu.[p.nav_level][p.nav_pos].title }}'>{{ menu.[p.nav_level][p.nav_pos].label }}</a></li>
+                                <li><a href='{{ menu.[p.nav_level][p.nav_pos].url | absolute_url }}' title='{{ menu.[p.nav_level][p.nav_pos].title }}'>{{ menu.[p.nav_level][p.nav_pos].label }}</a></li>
                             {% endif %}
 
                         {% endif %}

@@ -2,17 +2,22 @@ level_1:
   pos_1:
     label: Professional solutions
     title: Professional solutions
-    url: solutions.html
+    url: en/solutions.html
 
   pos_2:
     label: Our company
     title: Our company
-    url: history.html
+    url: en/history.html
 
   pos_3:
     label: Contact
     title: Contact
-    url: contact.html
+    url: en/contact.html
+
+  pos_4:
+    label: Noticias
+    title: Noticias
+    url: en/news.html
 
 lang:
   active: English

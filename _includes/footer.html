@@ -42,12 +42,12 @@
                         <ul class="list-inline">
                             <li>
                                 <a href="https://www.linkedin.com/company/vdos-stochastics" target="_blank">
-                                    <img src="../img/logo-footer-linkedin.png" title="linkedin" alt="linkedin" />
+                                    <img src="{{ 'img/logo-footer-linkedin.png' | absolute_url }}" title="linkedin" alt="linkedin" />
                                 </a>
                             </li>
                             <li>
                                 <a href="https://twitter.com/VDOSStochastics" target="_blank">
-                                    <img src="../img/logo-footer-twitter.png" title="twitter" alt="twitter" />
+                                    <img src="{{ '/img/logo-footer-twitter.png' | absolute_url}}" title="twitter" alt="twitter" />
                                 </a>
                             </li>
                         </ul>
@@ -57,7 +57,7 @@
             <div class="container footer-legal separator-dark">
                 <div class="row">
                     <div class="col-xs-12 col-md-2 padding-top20 padding-bottom20">
-                        <a href="{{datalang.inicio.href}}"><img src="../img/logo-footer-vdos.png" alt="VDOS" title="{{datalang.inicio.ir}}" /></a>
+                        <a href="{{datalang.inicio.href}}"><img src=" {{ 'img/logo-footer-vdos.png'  | absolute_url}}" alt="VDOS" title="{{datalang.inicio.ir}}" /></a>
                     </div>
                     <div class="col-xs-12 col-md-8 padding-top20 padding-bottom20 text-center">
                         <p>{{datatext.copyright}} {{datalang.legal.derechos}} |

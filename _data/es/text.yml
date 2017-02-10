@@ -5,33 +5,33 @@ cookies: "VDOS.com, al igual que la mayoría de sitios web, utiliza cookies con 
 
 inicio:
     title: "Inicio"
-    href: "inicio.html"
+    href: "es/inicio.html"
     alias: "inicio"
     ir: "Ir a la página principal de VDOS"
 
 soluciones:
     title: "Soluciones profesionales"
-    href: "soluciones.html"
+    href: "es/soluciones.html"
     alias: "soluciones"
 
 historia:
     title: "Nuestra empresa"
-    href: "historia.html"
+    href: "es/historia.html"
     alias: "historia"
 
 contacto:
     title: "Contacto"
-    href: "contacto.html"
+    href: "es/contacto.html"
     alias: "contacto"
 
 legal:
     title: "Aviso legal"
-    href: "legal.html"
+    href: "es/legal.html"
     alias: "legal"
     derechos: "Todos los derechos reservados"
 
 cookies:
     title: "Política de cookies"
-    href: "cookies.html"
+    href: "es/cookies.html"
     alias: "cookies"
     text: "política de cookies"

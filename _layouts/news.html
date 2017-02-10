@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+            <section class="container-fluid no-padding bg-brand-color">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            {% include breadcrumbs.html active_lang='es' %}
+                        </div>
+                        <h1 class="col-xs-12 col-md-12 white-color padding-bottom60">Noticias</h1>
+                    </div>
+                </div>
+            </section>
+
+            <section class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+                        <ul>
+                        {% for post in site.categories.es %}
+                            <li>
+                                <h1><a href="{{ post.url }}"> {{ post.title }} </a></h1>
+                                <span> {{ post.author }} | {{ post.date }}</span>
+                                <p>{{ post.excerpt }} </p>
+                            </li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="">
+                    <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-3 padding-top60 padding-right30 padding-left30 bg-light-grey-color-polygon">
+                        <header class="text-size22">Suscríbete a nuestros informes</header>
+                        <p>Recibe en tu correo electrónico toda la información sobre la evolución del sector.</p>
+                        <div class="margin-top40 text-center">
+                            <a href="http://eepurl.com/czP_gz" target="_blank" role="button" class="btn btn btn-default btn-full-width bg-light-grey-color">Suscribirme</a>
+                        </div>
+                    </aside>
+                    </div>
+                </div>
+
+            </section>
+
+            {% include default-js.html %}
