@@ -7,7 +7,7 @@ categories:
 tags:
 - sobre vdos
 author: Simón Prieto
-thumbnail: "/uploads/perfil3.jpg"
+thumbnail: "/uploads/lion-thumbnail.png"
 layout: post
 ---
 
