@@ -1,11 +1,9 @@
 ---
 title: spc82 github profile
-date: 2017-02-10 10:54:00 Z
+date: 2017-02-10 11:54:00 +01:00
 categories:
 - jekyll
 - update
-Field name:
-  Key: 
 layout: default
 ---
 
