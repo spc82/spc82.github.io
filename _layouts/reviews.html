@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+            <section class="container-fluid no-padding bg-brand-color">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            {% include breadcrumbs.html active_lang='es' %}
+                        </div>
+                        <h1 class="col-xs-12 col-md-12 white-color padding-bottom60">Noticias</h1>
+                    </div>
+                </div>
+            </section>
+
+            <section class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+                        <ul class="list-unstyled news">
+                        <!-- {% assign reviews = site.reviews | where: "categories","planes" %} -->
+                        {% for post in site.reviews %}
+                            <li class="padding-bottom20">
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <h2><a class="font-karla-bold text-size17 black-color" href="{{ post.url }}"> {{ post.title }} </a></h2>
+                                        <span class="warm-grey2-color text-uppercase block margin-bottom20"> {{ post.author }}  |  {{ post.date | date: "%d-%m-%Y"}} </span>
+                                    </div>
+                                    {% if post.thumbnail-image %}
+
+                                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                                            <a href="{{ post.url }}"><img src="{{ post.thumbnail-image | absolute_url }}" class="img-responsive"/></a>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                                            {{ post.summary-text }}
+                                        </div>
+
+                                    {% else %}
+
+                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                            {{ post.summary-text }}
+                                        </div>
+
+                                    {% endif %}
+                                </div>
+                            </li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="">
+                    <aside class="col-xs-12 col-sm-4 col-md-3 col-lg-3 padding-top60 padding-right30 padding-left30 bg-light-grey-color-polygon">
+                        <header class="text-size22">Suscríbete a nuestros informes</header>
+                        <p>Recibe en tu correo electrónico toda la información sobre la evolución del sector.</p>
+                        <div class="margin-top40 text-center">
+                            <a href="http://eepurl.com/czP_gz" target="_blank" role="button" class="btn btn btn-default btn-full-width bg-light-grey-color">Suscribirme</a>
+                        </div>
+                    </aside>
+                    </div>
+                </div>
+
+            </section>
+
+            {% include default-js.html %}
