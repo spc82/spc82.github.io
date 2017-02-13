@@ -24,19 +24,19 @@ layout: default
                                         <h2><a class="font-karla-bold text-size17 black-color" href="{{ post.url }}"> {{ post.title }} </a></h2>
                                         <span class="warm-grey2-color text-uppercase block margin-bottom20"> {{ post.author }}  |  {{ post.date | date: "%d-%m-%Y"}} </span>
                                     </div>
-                                    {% if post.thumbnail %}
+                                    {% if post.thumbnail-image %}
 
                                         <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                                            <a href="{{ post.url }}"><img src="{{ post.thumbnail | absolute_url }}" class="img-responsive"/></a>
+                                            <a href="{{ post.url }}"><img src="{{ post.thumbnail-image | absolute_url }}" class="img-responsive"/></a>
                                         </div>
                                         <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-                                            {{ post.excerpt }}
+                                            {{ post.summary-text }}
                                         </div>
 
                                     {% else %}
 
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                            {{ post.excerpt }}
+                                            {{ post.summary-text }}
                                         </div>
 
                                     {% endif %}
