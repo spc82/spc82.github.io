@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
   medios:
-    title: medios
+    title: Medios
     output: true
 defaults:
 - scope:
