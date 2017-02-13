@@ -24,7 +24,7 @@ defaults:
   values:
     layout: post
     summary-text: ''
-    authors: ''
+    author: ''
     keywords: ''
     description: ''
     thumbnail-image: ''
