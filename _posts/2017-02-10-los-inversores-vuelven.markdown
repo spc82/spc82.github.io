@@ -4,6 +4,7 @@ date: 2017-02-10 15:48:00 +01:00
 categories:
 - es
 - noticias
+- fondos
 tags:
 - sobre vdos
 summary-text: Los fondos mixtos, que combinan Bolsa y renta fija, acaparan en enero
