@@ -1,5 +1,5 @@
 ---
-title: Los planes cinco estrellas más rentables de enero
+title: Cinco razones para estar en renta variable europea con perfil value
 date: 2017-02-10 11:54:00 +01:00
 categories:
 - es
