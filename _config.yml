@@ -2,12 +2,12 @@
 title: spc82.github.io
 timezone: Europe/Madrid
 collections:
-  Analisis:
+  analisis:
     title: Análisis
     output: true
   authors:
     title: Authors
-    output: true
+    output: false
   medios:
     title: Medios
     output: false
@@ -21,6 +21,24 @@ defaults:
 - scope:
     path: ''
     type: posts
+  values:
+    layout: post
+    summary-text: ''
+    authors: ''
+    keywords: ''
+    description: ''
+    thumbnail-image: ''
+    article-image: ''
+    article-image-title: ''
+    medios: ''
+    link:
+      url: ''
+      title: ''
+      author-medio: ''
+      has-new-window: ''
+- scope:
+    path: ''
+    type: analisis
   values:
     layout: post
     summary-text: ''
