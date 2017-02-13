@@ -6,7 +6,7 @@ categories:
 - noticias
 summary-text: Los gestores de la firma independiente aconsejan cautela ante el optimismo
   hacia la bolsa y prefieren evitar el sector financiero.
-author: Sergio Ortega
+authors: Sergio Ortega
 keywords: bestinver
 description: |-
   Los gestores de la firma independiente aconsejan cautela ante el optimismo hacia la bolsa y
@@ -20,6 +20,7 @@ link:
   title: Expansion
   author: Jorge Zuloaga
   has-new-window: true
+author: Sergio Ortega
 layout: post
 ---
 
