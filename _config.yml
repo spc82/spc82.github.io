@@ -50,6 +50,7 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
+    permalink: /analisis/
 name: vdos.com
 exclude:
 - LICENSE.txt
