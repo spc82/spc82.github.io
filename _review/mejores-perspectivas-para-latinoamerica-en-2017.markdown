@@ -1,6 +1,8 @@
 ---
 title: Mejores perspectivas para Latinoamérica en 2017
 date: 2017-02-13 16:24:00 +01:00
+categories:
+- fondos
 summary-text: Tras un año de crecimiento plano en 2015, Latinoamérica comenzó a notar
   la recesión ya durante el primer trimestre del pasado año y su situación empeoró
   a medida que el año avanzaba. Una estimación de datos provisionales agregados muestra
