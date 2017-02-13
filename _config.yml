@@ -5,8 +5,8 @@ collections:
   authors:
     title: Authors
     output: true
-  mass-media:
-    title: Mass Media
+  media:
+    title: Media
     output: true
   posts:
     title: Posts
@@ -30,7 +30,7 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
-    mass-media: ''
+    media: ''
     link:
       url: ''
       title: ''
