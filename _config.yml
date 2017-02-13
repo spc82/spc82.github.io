@@ -8,13 +8,13 @@ collections:
   medias:
     title: Medias
     output: false
-  posts:
-    title: Posts
-    output: true
   news:
     title: News
     output: true
     permalink: "/noticias/:categories/:year/:month/:day/:title.html"
+  posts:
+    title: Posts
+    output: true
   reviews:
     title: Reviews
     output: true
