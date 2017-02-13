@@ -11,25 +11,22 @@ collections:
     title: Uploads
     output: true
 defaults:
-
-  -
-    scope:
-      path: ''
-      type: "post"
-    values:
-      layout: "post"
-      summary-text: ''
-      author: ''
-      keywords: ''
-      description: ''
-      thumbnail-image: ''
-      article-image: ''
-      article-image-title: ''
-      links:
-        link-1-url: ''
-        link-1-title: ''
-        link-1-autor: ''
-
+- scope:
+    path: ''
+    type: post
+  values:
+    layout: post
+    summary-text: ''
+    author: ''
+    keywords: ''
+    description: ''
+    thumbnail-image: ''
+    article-image: ''
+    article-image-title: ''
+    links:
+      link-1-url: ''
+      link-1-title: ''
+      link-1-autor: ''
 name: vdos.com
 exclude:
 - LICENSE.txt
