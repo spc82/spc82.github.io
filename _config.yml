@@ -34,7 +34,7 @@ defaults:
     link:
       url: ''
       title: ''
-      author-mass-media: ''
+      author-media: ''
       has-new-window: ''
 name: vdos.com
 exclude:
