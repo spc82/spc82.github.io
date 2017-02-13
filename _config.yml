@@ -30,11 +30,11 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
-    medios: ''
+    mass-media: ''
     link:
       url: ''
       title: ''
-      author-link: ''
+      author-mass-media: ''
       has-new-window: ''
 name: vdos.com
 exclude:
