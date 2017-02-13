@@ -6,8 +6,19 @@ categories:
 - noticias
 tags:
 - sobre vdos
-author: Simón Prieto
-thumbnail: "/uploads/lion-thumbnail.png"
+summary-text: "**Lorem Ipsum** es simplemente el texto de relleno de las imprentas
+  y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+  desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)"
+author: Sergio Ortega
+keywords: Lorem Ipsum
+description: Lorem Ipsum, Ipsum Lorem
+thumbnail-image: "/uploads/lion-thumbnail.png"
+article-image: "/uploads/lion.jpg"
+article-image-title: Leon
+links:
+  link-1-url: http://www.cincodias.com/articulo/opinion/futuro-fondos/20110309cdscdiopi_5/
+  link-1-title: Leer en medio original
+  link-1-autor: Carlos Fernández
 layout: post
 ---
 
