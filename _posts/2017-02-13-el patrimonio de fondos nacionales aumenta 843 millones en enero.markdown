@@ -26,9 +26,11 @@ description: El patrimonio de fondos de inversión nacionales ha aumentado en 83
 thumbnail-image: "/uploads/lion-thumbnail.png"
 article-image: "/uploads/lion.jpg"
 article-image-title: Leon
+media: El confidencial
 link:
   url: http://www.cincodias.com/articulo/opinion/futuro-fondos/20110309cdscdiopi_5/
   title: Leer en medio original
+  author-media: Redacción
   has-new-window: false
 layout: post
 ---
