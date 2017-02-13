@@ -10,6 +10,7 @@ tags:
 summary-text: Los fondos mixtos, que combinan Bolsa y renta fija, acaparan en enero
   la mitad de las suscripciones netas. Los expertos aconsejan los productos más flexibles
   de esta gama.
+author: Paula Mercado
 keywords: Lorem Ipsum
 description: "**Lorem Ipsum** es simplemente el texto de relleno de las imprentas
   y archivos de texto. "
