@@ -7,7 +7,7 @@ collections:
     output: true
   mass-media:
     title: Mass Media
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
