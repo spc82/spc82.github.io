@@ -11,22 +11,19 @@ collections:
     title: Uploads
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      layout: "post"
-      author: "Sergio Ortega"
-      description: ""
-      image: ""
-
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
+- scope:
+    path: ''
+    type: post
+  values:
+    layout: post
+    author: Sergio Ortega
+    description: ''
+    image: ''
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
 name: vdos.com
 exclude:
 - LICENSE.txt
