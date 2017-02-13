@@ -2,14 +2,14 @@
 title: spc82.github.io
 timezone: Europe/Madrid
 collections:
-  analisis:
-    title: Análisis
+  review:
+    title: Review
     output: true
   authors:
-    title: Autores
-    output: false
-  medios:
-    title: Medios
+    title: Authors
+    output: true
+  mass-media:
+    title: Mass Media
     output: false
   posts:
     title: Posts
@@ -34,25 +34,7 @@ defaults:
     link:
       url: ''
       title: ''
-      author-medio: ''
-      has-new-window: ''
-- scope:
-    path: ''
-    type: analisis
-  values:
-    layout: post
-    summary-text: ''
-    authors: ''
-    keywords: ''
-    description: ''
-    thumbnail-image: ''
-    article-image: ''
-    article-image-title: ''
-    medios: ''
-    link:
-      url: ''
-      title: ''
-      author-medio: ''
+      author-link: ''
       has-new-window: ''
 name: vdos.com
 exclude:
