@@ -31,7 +31,7 @@ defaults:
     link:
       url: ''
       title: ''
-      author: ''
+      author-link: ''
       has-new-window: ''
 name: vdos.com
 exclude:
