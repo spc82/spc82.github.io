@@ -6,7 +6,7 @@ categories:
 - noticias
 summary-text: Los gestores de la firma independiente aconsejan cautela ante el optimismo
   hacia la bolsa y prefieren evitar el sector financiero.
-authors: Sergio Ortega
+author: Sergio Ortega
 keywords: bestinver
 description: |-
   Los gestores de la firma independiente aconsejan cautela ante el optimismo hacia la bolsa y
@@ -14,13 +14,12 @@ description: |-
 thumbnail-image: "/uploads/lion-thumbnail.png"
 article-image: "/uploads/lion.jpg"
 article-image-title: Lion
-medios: Medio 2
+media: Cinco días
 link:
   url: http://www.expansion.com/2011/02/13/mercados/1297630580.html
   title: Expansion
-  author: Jorge Zuloaga
+  author-media: Jorge Cremas
   has-new-window: true
-author: Sergio Ortega
 layout: post
 ---
 
