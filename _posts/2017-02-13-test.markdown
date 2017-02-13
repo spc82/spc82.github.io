@@ -1,6 +1,9 @@
 ---
 title: El futuro de los fondos
 date: 2017-02-13 11:37:00 +01:00
+categories:
+- es
+- noticias
 summary-text: |-
   En definitiva, una gran parte de la industria se concentra en productos con escaso valor añadido de gestión: ya sea porque se orientan a categorías en las que una variable crítica es el precio -como los productos monetarios o de renta fija a corto plazo- o porque se trata de productos empaquetados que no requieren de la gestión de sus inversiones durante la vida del producto -como los fondos garantizados o de garantía parcial-.
 
