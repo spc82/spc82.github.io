@@ -23,6 +23,7 @@ description: En España, la mayor parte de los activos en fondos de inversión s
 thumbnail-image: "/uploads/lion-thumbnail.png"
 article-image: "/uploads/lion.jpg"
 article-image-title: Leon
+medios: Medio 1
 link:
   url: http://www.cincodias.com/articulo/opinion/futuro-fondos/20110309cdscdiopi_5/
   title: Leer en medio original

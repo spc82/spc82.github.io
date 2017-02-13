@@ -2,14 +2,14 @@
 title: spc82.github.io
 timezone: Europe/Madrid
 collections:
+  medios:
+    title: Medios
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  medios:
-    title: Medios
     output: true
 defaults:
 - scope:
