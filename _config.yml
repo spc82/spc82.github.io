@@ -16,3 +16,11 @@ exclude:
 - README.md
 - doc
 data_dir: "./_data"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Ethan"
