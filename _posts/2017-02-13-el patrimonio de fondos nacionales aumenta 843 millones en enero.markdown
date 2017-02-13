@@ -2,8 +2,8 @@
 title: El patrimonio de fondos nacionales aumenta 843 millones en enero
 date: 2017-02-13 11:37:00 +01:00
 categories:
-- es
 - noticias
+- fondos
 summary-text: El patrimonio de fondos de inversión nacionales ha aumentado en 835
   millones en el mes de enero, un incremento de un 0,35 % que llevan al patrimonio
   total gestionado a 240.150 millones a cierre de mes.
