@@ -23,10 +23,11 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
-    links:
-      link-1-url: ''
-      link-1-title: ''
-      link-1-author: ''
+    link:
+      url: ''
+      title: ''
+      author: ''
+      has-new-window: ''
 name: vdos.com
 exclude:
 - LICENSE.txt
