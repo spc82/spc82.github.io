@@ -2,9 +2,6 @@
 title: spc82.github.io
 timezone: Europe/Madrid
 collections:
-  review:
-    title: Review
-    output: true
   authors:
     title: Authors
     output: true
@@ -13,6 +10,9 @@ collections:
     output: false
   posts:
     title: Posts
+    output: true
+  review:
+    title: Review
     output: true
   uploads:
     title: Uploads
