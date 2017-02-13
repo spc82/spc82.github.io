@@ -17,16 +17,24 @@ defaults:
       type: "post"
     values:
       layout: "post"
-      author: "Sergio Ortega"
+      summary-text: ""
+      author: ""
+      keywords: ""
       description: ""
-      image: ""
-
+      thumbnail-image: ""
+      article-image: ""
+      article-image-title: ""
+      links:
+        link-1-url: ""
+        link-1-title: ""
+        link-1-autor: ""
   -
     scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
+
 name: vdos.com
 exclude:
 - LICENSE.txt
