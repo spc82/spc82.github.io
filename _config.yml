@@ -40,6 +40,7 @@ defaults:
     path: ''
     type: review
   values:
+    categories: ''
     layout: review
     summary-text: ''
     author: ''
