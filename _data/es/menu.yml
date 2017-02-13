@@ -19,6 +19,11 @@ level_1:
     title: Noticias
     url: es/noticias.html
 
+  pos_5:
+    label: Análisis
+    title: Análisis
+    url: es/analisis.html
+
 lang:
   active: Español
   deactived: English

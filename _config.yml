@@ -61,10 +61,10 @@ defaults:
       has-new-window: ''
 - scope:
     path: ''
-    type: review
+    type: reviews
   values:
     categories: ''
-    layout: review
+    layout: review-item
     summary-text: ''
     author: ''
     keywords: ''
