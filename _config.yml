@@ -23,7 +23,10 @@ defaults:
       type: "post"
     values:
       layout: "post"
-      author: "Ethan"
+      author: "Sergio Ortega"
+      description: ""
+      image: ""
+
   -
     scope:
       path: ""
