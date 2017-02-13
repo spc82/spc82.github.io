@@ -10,12 +10,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: vdos.com
-exclude:
-- LICENSE.txt
-- README.md
-- doc
-data_dir: "./_data"
 defaults:
   -
     scope:
@@ -33,3 +27,9 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+name: vdos.com
+exclude:
+- LICENSE.txt
+- README.md
+- doc
+data_dir: "./_data"
