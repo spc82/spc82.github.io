@@ -5,14 +5,18 @@ collections:
   authors:
     title: Authors
     output: false
-  media:
-    title: Media
+  medias:
+    title: Medias
     output: false
   posts:
     title: Posts
     output: true
-  review:
-    title: Review
+  news:
+    title: News
+    output: true
+    permalink: "/noticias/:categories/:year/:month/:day/:title.html"
+  reviews:
+    title: Reviews
     output: true
     permalink: "/analisis/:categories/:year/:month/:day/:title.html"
   uploads:
@@ -24,6 +28,24 @@ defaults:
     type: posts
   values:
     layout: post
+    summary-text: ''
+    author: ''
+    keywords: ''
+    description: ''
+    thumbnail-image: ''
+    article-image: ''
+    article-image-title: ''
+    media: ''
+    link:
+      url: ''
+      title: ''
+      author-media: ''
+      has-new-window: ''
+- scope:
+    path: ''
+    type: news
+  values:
+    layout: news-item
     summary-text: ''
     author: ''
     keywords: ''
