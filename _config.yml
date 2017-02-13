@@ -36,6 +36,18 @@ defaults:
       title: ''
       author-media: ''
       has-new-window: ''
+- scope:
+    path: ''
+    type: review
+  values:
+    layout: review
+    summary-text: ''
+    author: ''
+    keywords: ''
+    description: ''
+    thumbnail-image: ''
+    article-image: ''
+    article-image-title: ''
 name: vdos.com
 exclude:
 - LICENSE.txt

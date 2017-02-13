@@ -20,6 +20,16 @@ layout: default
             <div class="col-xs-12 col-md-12">
                 {{ content }}
             </div>
+            {% if page.media %}
+                <div class="col-xs-12 col-md-12">
+                    <span>{{page.link.author-media}} ({{page.media}})</span>
+                    {% if page.link.has-new-window %}
+                        <a href="{{page.link.url}}" title="{{page.link.title}}" target="_blank"> {{page.link.title}} </a>
+                    {% else %}
+                        <a href="{{page.link.url}}" title="{{page.link.title}}"> {{page.link.title}} </a>
+                    {% endif %}
+                </div>
+            {% endif %}
         </div>
     </article>
     {% include default-js.html %}
