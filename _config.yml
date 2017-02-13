@@ -4,7 +4,7 @@ timezone: Europe/Madrid
 collections:
   authors:
     title: Authors
-    output: true
+    output: false
   media:
     title: Media
     output: false

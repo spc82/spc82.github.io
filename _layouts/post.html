@@ -12,9 +12,9 @@ layout: default
 
     <article class="container">
         <div class="row">
-            {% if page.img %}
+            {% if page.article-image %}
             <div class="col-xs-12 col-md-12">
-                <img src="{{ page.img | absolute_url }}" class="img-responsive"/>
+                <img src="{{ page.article-image | absolute_url }}" title="{{ page.article-image-title}}" class="img-responsive"/>
             </div>
             {% endif %}
             <div class="col-xs-12 col-md-12">
