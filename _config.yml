@@ -20,7 +20,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "post"
+    values:
+      layout: "post"
+      author: "Ethan"
+  -
+    scope:
+      path: ""
+      type: "pages"
     values:
       layout: "default"
-      author: "Ethan"
