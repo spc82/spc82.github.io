@@ -1,6 +1,9 @@
 ---
 title: Bestinver no va a invertir en bancos y cajas de ahorros a corto plazo
 date: 2017-02-10 17:52:00 +01:00
+categories:
+- es
+- noticias
 summary-text: Los gestores de la firma independiente aconsejan cautela ante el optimismo
   hacia la bolsa y prefieren evitar el sector financiero.
 author: Sergio Ortega
