@@ -14,7 +14,7 @@ collections:
   review:
     title: Review
     output: true
-    permalink: "/analisis"
+    permalink: "/analisis/:path"
   uploads:
     title: Uploads
     output: true
