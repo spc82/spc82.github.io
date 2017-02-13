@@ -38,7 +38,7 @@ defaults:
       has-new-window: ''
 - scope:
     path: ''
-    type: analysis
+    type: analisis
   values:
     layout: post
     summary-text: ''
