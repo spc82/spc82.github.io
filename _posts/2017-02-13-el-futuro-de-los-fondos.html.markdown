@@ -10,7 +10,7 @@ summary-text: En España, la mayor parte de los activos en fondos de inversión 
   garantizados. Estas categorías son sustitutivos claros de los productos de balance
   como las cuentas corrientes, las imposiciones a plazo o los depósitos estructurados
   con garantía de capital.
-author: Sergio Ortega
+authors: Paula Mercado
 keywords: VDOS, fondos, inversion, futuro
 description: En España, la mayor parte de los activos en fondos de inversión se orientan
   a productos que son competencia del pasivo bancario tradicional. Dos tercios de
@@ -27,6 +27,7 @@ link:
   title: Leer en medio original
   author: Carlos Fernández
   has-new-window: false
+author: Sergio Ortega
 layout: post
 ---
 
