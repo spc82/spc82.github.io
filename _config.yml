@@ -10,23 +10,21 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: post
+  values:
+    layout: post
+    author: Ethan
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
 name: vdos.com
 exclude:
 - LICENSE.txt
 - README.md
 - doc
 data_dir: "./_data"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      layout: "post"
-      author: "Ethan"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
