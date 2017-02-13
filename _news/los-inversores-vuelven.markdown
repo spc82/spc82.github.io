@@ -2,7 +2,6 @@
 title: Los inversores vuelven a apostar por los fondos mixtos
 date: 2017-02-10 15:48:00 +01:00
 categories:
-- noticias
 - fondos
 tags:
 - sobre vdos
