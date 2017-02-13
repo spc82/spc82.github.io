@@ -6,6 +6,7 @@ categories:
 - noticias
 tags:
 - sobre vdos
+author: Simón Prieto
 layout: post
 ---
 
