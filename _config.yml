@@ -21,6 +21,7 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
+    medios: ''
     link:
       url: ''
       title: ''
