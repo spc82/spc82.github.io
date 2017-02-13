@@ -14,7 +14,7 @@ collections:
   review:
     title: Review
     output: true
-    permalink: "/analisis/:path"
+    permalink: "/analisis/:categories/:path"
   uploads:
     title: Uploads
     output: true
@@ -50,7 +50,6 @@ defaults:
     thumbnail-image: ''
     article-image: ''
     article-image-title: ''
-    permalink: /analisis/
 name: vdos.com
 exclude:
 - LICENSE.txt
