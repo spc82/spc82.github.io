@@ -2,9 +2,6 @@
 title: spc82.github.io
 timezone: Europe/Madrid
 collections:
-  analysis:
-    title: Análisis
-    output: true
   authors:
     title: Autores
     output: false
