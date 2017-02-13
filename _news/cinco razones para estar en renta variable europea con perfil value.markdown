@@ -2,7 +2,6 @@
 title: Cinco razones para estar en renta variable europea con perfil value
 date: 2017-02-10 11:54:00 +01:00
 categories:
-- noticias
 - fondos
 summary-text: Aún más si cabe que en años anteriores, estamos convencidos de que la
   inversión en acciones de perfil value europeas, y especialmente francesas, será
