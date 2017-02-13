@@ -3,7 +3,6 @@ title: Las entidades españolas se decidirán por un modelo de asesoramiento no 
   cuando entre en vigor MiFID II
 date: 2017-02-10 17:11:00 +01:00
 categories:
-- noticias
 - fondos
 tags:
 - sobre vdos
