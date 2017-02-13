@@ -4,16 +4,16 @@ date: 2017-02-10 11:54:00 +01:00
 categories:
 - es
 - noticias
-summary-text: Dejamos atrás el primer mes del año, con la renta variable mostrando
-  un comportamiento desigual. Si consideramos los principales índices mundiales, siguiendo
-  la tendencia del pasado año y con la excepción de EEUU y Alemania, los mercados
-  emergentes están mostrando resultados superiores respecto a los desarrollados.
+summary-text: Aún más si cabe que en años anteriores, estamos convencidos de que la
+  inversión en acciones de perfil value europeas, y especialmente francesas, será
+  beneficiosa para los inversores en 2017”. Así de convencido se muestra Jean-Charles
+  Mériaux, director de inversiones de DNCA Investments, filial de Natixis Global AM.
 authors: Sergio Ortega
 keywords: Aumento
-description: Dejamos atrás el primer mes del año, con la renta variable mostrando
-  un comportamiento desigual. Si consideramos los principales índices mundiales, siguiendo
-  la tendencia del pasado año y con la excepción de EEUU y Alemania, los mercados
-  emergentes están mostrando resultados superiores respecto a los desarrollados.
+description: Aún más si cabe que en años anteriores, estamos convencidos de que la
+  inversión en acciones de perfil value europeas, y especialmente francesas, será
+  beneficiosa para los inversores en 2017”. Así de convencido se muestra Jean-Charles
+  Mériaux, director de inversiones de DNCA Investments, filial de Natixis Global AM.
 thumbnail-image: "/uploads/lion-thumbnail.png"
 article-image: "/uploads/lion.jpg"
 article-image-title: Lion
@@ -26,12 +26,12 @@ link:
 layout: post
 ---
 
-Una evolución que se refleja en los resultados por rentabilidad de las categorías de Planes de Pensiones del Sistema Individual. Los índices de categorías más rentables durante enero han sido los de renta variable, con Renta Variable Internacional Asia-Emergentes anotándose un 4,15 por ciento de revalorización, y un 0,47 por ciento en el caso de Renta Variable Internacional Global.
+Para el directivo de la firma existen cinco razones que apoyan este enfoque:
 
-Si atendemos al ranking de los planes más rentables en el año, la primera posición corresponde a PLANCAIXA TENDENCIAS que obtiene un 1,95 por ciento por rentabilidad en el mes, tras finalizar 2016 con un 7,05 por ciento. A un año, registra un controlado dato de volatilidad de 6,58 por ciento que lo sitúa entre los mejores de su categoría, en el quintil cinco. Gestionado activamente, es un plan de pensiones de renta variable con visión a largo plazo, que invierte un 50 por ciento en una cartera global que replica las decisiones de Distribución de Activos de InverCaixa y el 50 por ciento restante se destina a la inversión en grandes tendencias de futuro. Con un patrimonio bajo gestión de 386 millones de euros, las mayores posiciones en su cartera incluyen fondos como BGF World Energy A2 (11,25%) Fidelity Funds-Global Financial Services Fund Y-Acc-Eur (10,44%) Jpm Emerging Markets Equity C (Acc) USD (9,07%) Franklin Technology I (ACC) EUR (8,37%) y JPM Global Healthcare C (ACC) USD (6,45%).
+1. Un contexto macroeconómico más favorable que en 2016
 
-El buen comportamiento del sector tecnológico se refleja en el plan [BBVA PLAN TELECOMUNICACIONES](http://quefondos.com/es/planes/ficha/index.html?isin=N1793) que se revaloriza en el año un 1,03 por ciento y un 11,66 por ciento el pasado año, con un dato de volatilidad a un año de 11,35 por ciento. Gestionando un patrimonio de 70 millones de euros, su cartera invierte al menos un 75 por ciento en renta variable de mercados españoles o extranjeros y principalmente de compañías pertenecientes al sector de las telecomunicaciones. Las empresas emisoras pueden ser tanto operadoras como fabricantes de equipos o compañías relacionadas con la tecnología de la información, incluyendo semiconductores, ordenadores, desarrollo de software y electrónica. Sus mayores posiciones en cartera corresponden a las estadounidenses Apple Computer Inc (7,04%) AT&T Inc (5,57%) Microsoft Corporation (5,22%) Verizon Communications (4,60%) y Facebook Inc (3,06%)
+Todas las encuestas a empresas y consumidores apuntan en la misma dirección: el crecimiento mundial está acelerando en un momento en el que los países desarrollados siguen registrando cifras sólidas, si bien es cierto que más bajas que en el pasado, mientras que la situación en los mercados emergentes está mejorando, alimentada por la esperanza de que los países productores de materias primas (Rusia y Brasil) se recuperen y la economía china siga bajo control. Entretanto, dice Mériaux, la temática de la deflación está perdiendo fuerza, aunque en estos momentos apenas se puede hablar de una tendencia inflacionista. Deberíamos estar muy atentos a los indicadores salariales, especialmente en las economías con pleno empleo.
 
-Con un 0,95 por ciento de rentabilidad durante enero FONDITEL RED ACTIVA terminaba el pasado año con un 2,88 por ciento de revalorización, registrando a un año un controlado dato de volatilidad de 6,58 por ciento, que lo posiciona en el quintil cinco, entre los mejores de su categoría. Este plan de Fonditel Pensiones (grupo Telefónica) gestiona un patrimonio de 81 millones de euros, encuadrándose en la categoría VDOS de Renta Variable Internacional Europa.
+2. La política monetaria se encamina hacia la normalización
 
-Son planes pensados para inversores jóvenes, con un horizonte de inversión a largo plazo y una elevada tolerancia al riesgo. Los dos primeros muestran una excelente evolución por rentabilidad, situándose también entre los más rentables a tres años, mientras que primero y tercero destacan por su controlada volatilidad, considerando el tipo de activo en que invierten.
+Después de mostrar extrema cautela durante todo el 2016 y subir una sola vez su tipo de referencia, en 2017 la Fed parece que va a decretar tres subidas de tipos. Después de más de tres décadas de tipos de interés a la baja, el universo de la renta fija podría enfrentarse a la normalización de la política monetaria en un contexto de recuperación económica con riesgos inflacionistas. El Banco Central Europeo puso rumbo a un soft tapering, aunque mantuvo su postura expansiva. Sin embargo, advierte el gestor, su punto de mayor intervención ya ha quedado atrás y su programa de compras de activos debería concluir en 2018...
