@@ -8,7 +8,7 @@ summary-text: Aún más si cabe que en años anteriores, estamos convencidos de 
   inversión en acciones de perfil value europeas, y especialmente francesas, será
   beneficiosa para los inversores en 2017”. Así de convencido se muestra Jean-Charles
   Mériaux, director de inversiones de DNCA Investments, filial de Natixis Global AM.
-authors: Sergio Ortega
+author: Sergio Ortega
 keywords: Aumento
 description: Aún más si cabe que en años anteriores, estamos convencidos de que la
   inversión en acciones de perfil value europeas, y especialmente francesas, será
@@ -17,11 +17,11 @@ description: Aún más si cabe que en años anteriores, estamos convencidos de q
 thumbnail-image: "/uploads/lion-thumbnail.png"
 article-image: "/uploads/lion.jpg"
 article-image-title: Lion
-medios: Medio 1
+media: Cinco días
 link:
   url: http://www.fundssociety.com/es/noticias/mercados/natixis-cinco-razones-para-estar-en-renta-variable-europea-con-perfil-value
   title: Cinco razones para estar en renta variable europea con perfil value
-  author-link: Funds Society
+  author-media: 'Redacción '
   has-new-window: true
 layout: post
 ---
