@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+    <section class="container-fluid no-padding bg-brand-color">
+        <div class="container">
+            <div class="row">
+                <h1 class="col-xs-12 col-md-12 white-color padding-bottom60">{{page.title}}</h1>
+            </div>
+        </div>
+    </section>
+
+    <article class="container">
+        <div class="row">
+            {% if page.article-image %}
+            <div class="col-xs-12 col-md-12">
+                <img src="{{ page.article-image | absolute_url }}" title="{{ page.article-image-title}}" class="img-responsive"/>
+            </div>
+            {% endif %}
+            <div class="col-xs-12 col-md-12">
+                {{ content }}
+            </div>
+            {% if page.media %}
+                <div class="col-xs-12 col-md-12">
+                    <span>{{page.link.author-media}} ({{page.media}})</span>
+                    {% if page.link.has-new-window %}
+                        <a href="{{page.link.url}}" title="{{page.link.title}}" target="_blank"> {{page.link.title}} </a>
+                    {% else %}
+                        <a href="{{page.link.url}}" title="{{page.link.title}}"> {{page.link.title}} </a>
+                    {% endif %}
+                </div>
+            {% endif %}
+        </div>
+    </article>
+    {% include default-js.html %}
