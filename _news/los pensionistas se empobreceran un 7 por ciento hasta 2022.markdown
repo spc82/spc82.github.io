@@ -2,7 +2,6 @@
 title: Los pensionistas se empobrecerán un 7% hasta 2022
 date: 2017-02-10 17:52:00 +01:00
 categories:
-- noticias
 - planes
 summary-text: La Autoridad Fiscal ha subrayado la inevitable pérdida de poder adquisitivo
   de los pensionistas durante los próximos años. Según el organismo, su poder adquisitivo
