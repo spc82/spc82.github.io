@@ -1,7 +1,29 @@
 ---
-title: Test
+title: El futuro de los fondos
 date: 2017-02-13 11:37:00 +01:00
+summary-text: |-
+  En definitiva, una gran parte de la industria se concentra en productos con escaso valor añadido de gestión: ya sea porque se orientan a categorías en las que una variable crítica es el precio -como los productos monetarios o de renta fija a corto plazo- o porque se trata de productos empaquetados que no requieren de la gestión de sus inversiones durante la vida del producto -como los fondos garantizados o de garantía parcial-.
+
+  Si pensamos que durante los próximos años la recuperación de la economía española seguirá un proceso lento, y las entidades financieras necesitarán reforzar la estructura de recursos dentro de balance, parece que no podremos contar ni con el crecimiento vegetativo ni con una estrategia encaminada a promocionar la inversión en los fondos más conservadores; al menos no de forma generalizada. Por tanto, el crecimiento del sector debe venir de otros ámbitos. Pero, ¿está el sector preparado para crecer?
+
+  Probablemente la clave está en plantearse si los actores de la industria desean potenciar la gestión de fondos de valor añadido o no. Por fondos de valor añadido entendemos aquellos que realizan una gestión activa, están orientados a producir resultados atractivos y pretenden medirse con otros ofrecidos por proveedores diferentes. Ese segmento de la industria, amplio en estrategias y mercados, está sujeto a elevados niveles de competencia, sobre todo por parte de los fondos internacionales que se comercializan en nuestro país. Pero si el crecimiento va a venir fundamentalmente por ahí, a las gestoras solo les queda especializarse, ofrecer productos en los que realmente puedan enseñar músculo, marcar territorio.
+
+  Para ello es necesario invertir, se precisa un compromiso a largo plazo con las fábricas de fondos. También significa salir al extranjero buscando aumentar y diversificar la base de clientes. ¿Tenemos algo que ofrecer? Yo creo que sí, y mucho. Lo peor es que si no es así nadie va a esperarnos. Ahí estarán los competidores internacionales para rellenar este hueco. No olvidemos que el año pasado, por cada dos euros que salieron de la industria nacional de fondos, casi uno entero fue a parar a los fondos internacionales.
+author: Sergio Ortega
+keywords: VDOS, fondos, inversion, futuro
+description: En España, la mayor parte de los activos en fondos de inversión se orientan
+  a productos que son competencia del pasivo bancario tradicional. Dos tercios de
+  los activos se encuadran en activos monetarios, de renta fija a corto plazo o productos
+  garantizados. Estas categorías son sustitutivos claros de los productos de balance
+  como las cuentas corrientes, las imposiciones a plazo o los depósitos estructurados
+  con garantía de capital.
+thumbnail-image: "/uploads/lion-thumbnail.png"
+article-image: "/uploads/lion.jpg"
+article-image-title: Leon
+links:
+  link-1-url: http://www.cincodias.com/articulo/opinion/futuro-fondos/20110309cdscdiopi_5/
+  link-1-title: Leer en medio original
 layout: post
 ---
 
-Test
+En España, la mayor parte de los activos en fondos de inversión se orientan a productos que son competencia del pasivo bancario tradicional. Dos tercios de los activos se encuadran en activos monetarios, de renta fija a corto plazo o productos garantizados. Estas categorías son sustitutivos claros de los productos de balance como las cuentas corrientes, las imposiciones a plazo o los depósitos estructurados con garantía de capital.
