@@ -4,6 +4,8 @@ title: Las entidades españolas se decidirán por un modelo de asesoramiento no 
 date: 2017-02-10 17:11:00 +01:00
 categories:
 - fondos
+tags:
+- featured
 summary-text: A falta de su desarrollo normativo en España, la implantación de MiFID
   II permitirá más seguridad, eficacia y transparencia en los mercados para lograr
   una mayor protección de los inversores. Unas premisas que provocarán un importante
