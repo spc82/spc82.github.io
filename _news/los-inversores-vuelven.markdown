@@ -4,7 +4,7 @@ date: 2017-02-10 15:48:00 +01:00
 categories:
 - fondos
 tags:
-- sobre vdos
+- featured
 summary-text: Los fondos mixtos, que combinan Bolsa y renta fija, acaparan en enero
   la mitad de las suscripciones netas. Los expertos aconsejan los productos más flexibles
   de esta gama.
