@@ -3,6 +3,7 @@ title: Cómo preparar las carteras de fondos para los próximos meses
 date: 2017-02-10 14:25:00 +01:00
 categories:
 - fondos
+- proximos
 summary-text: "**Lorem Ipsum** es simplemente el texto de relleno de las imprentas
   y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias
   desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)
