@@ -1,5 +1,5 @@
 ---
-title: Cinco razones para estar en renta variable europea con perfil value
+title: Test spc82.github.io
 date: 2017-02-10 11:54:00 +01:00
 categories:
 - fondos
