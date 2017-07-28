@@ -2,7 +2,7 @@
 title: Prueba con Rafael
 date: 2017-02-10 11:54:00 +01:00
 categories:
-- admira
+- fondos
 summary-text: Aún más si cabe que en años anteriores, estamos convencidos de que la
   inversión en acciones de perfil value europeas, y especialmente francesas, será
   beneficiosa para los inversores en 2017”. Así de convencido se muestra Jean-Charles
